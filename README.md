@@ -1,0 +1,3 @@
+- 👋 I am a Computer Engineer
+- 👀 I’m interested in coding and Data Science
+- 🌱 I’m currently learning Python and Data Engineering
